@@ -1,0 +1,47 @@
+{
+    "1":{
+        "jmeno": "Eliska",
+        "pohlavi": "zena",
+        "vek": "21",
+        "opilost": "stredni",
+        "vzhled": "sexy",
+        "inteligence": "negramotna",
+        "obtiznost": "1"
+    },
+    "2":{
+        "jmeno": "Jana",
+        "pohlavi": "zena",
+        "vek": "16",
+        "opilost": "velka",
+        "vzhled": "pekna",
+        "inteligence": "negramotna",
+        "obtiznost": "1"
+    },
+    "3":{
+        "jmeno": "Bara",
+        "pohlavi": "zena",
+        "vek": "35",
+        "opilost": "lehka",
+        "vzhled": "pekna",
+        "inteligence": "negramotna ",
+        "obtiznost": "2"
+    },
+    "4":{
+        "jmeno": "Alena",
+        "pohlavi": "zena",
+        "vek": "25",
+        "opilost": "stredni",
+        "vzhled": "ujde",
+        "inteligence": "inteligentni",
+        "obtiznost": "3"
+    },
+    "5":{
+        "jmeno": "Kacka",
+        "pohlavi": "zena",
+        "vek": "18",
+        "opilost": "strizliva",
+        "vzhled": "sex bomba",
+        "inteligence": "inteligentni",
+        "obtiznost": "4"
+    }
+}

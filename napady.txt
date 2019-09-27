@@ -1,0 +1,12 @@
+Ve hře budeš mít na výběr ze tří žen, které se rozhodneš sbalit na one night stand. Problém bude, že budeš mít omezený budget, tudíž pouze dvakrát budeš moc ženu pozvat na drink
+což bude sloužit jako dva žolíci pro dvě odpovědi. Asi bych udělal 5 možností odpovědí, s tím, že nejhorší odpověd by byla -1 bod, dále 0 bodů, 1 bod, dva body a drink zdarma.
+
+Cílem hry by bylo nabalit jednu z těch žen a couvnout bys mohl maximálně jednou a pouze u nějaké z těch odpovědí. Ženu nabalíš podle toho, jak moc bude opilá, zda-li se k ní
+budeš chovat dobře a budeš atraktivní. 
+
+Ženy by byly 3, neboli 3 obtížnosti. Nejlehčí by byla blbá, opilá a né moc ošklivá. Střední atraktivní, normální, prostě průměr. Třetí by byla ta nejhezčí, střízlivá, prostě
+klasa.
+
+Konce ještě musím domyslet, každopádně když vyhraješ, schwazneš si a najdeš přítelkyni, když to bude uprostřed, tak si schwazneš a když prohraješ tak nic nebude.
+
+Obtížnost se bude projevovat tak, že na konci musíš mít buďto více nebo méně bodů.
